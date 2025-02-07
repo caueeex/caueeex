@@ -88,4 +88,5 @@ Sou Cauê Sotero, um programador Full Stack apaixonado por tecnologia. Tenho exp
 - 🎓 Formação técnica em Desenvolvimento de Sistemas pelo **SENAI**  
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas pelo **SENAI**  
 - 🏆 Experiência liderando equipes e projetos  
-- 🏅 Participação em competições e eventos da área de tecnologia  
+- 🏅 Participação em competições e eventos da área de tecnologia
+- 🤵 Estagiário em Análise e Desenvolvimento de Sistemas no **SENAI**
