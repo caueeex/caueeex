@@ -1,14 +1,14 @@
 # 📍 Prazer
 
-Sou Guilherme Yan, um programador Full Stack apaixonado por tecnologia. Tenho experiência no desenvolvimento de sistemas web e mobile, utilizando diversas tecnologias para criar soluções eficientes e inovadoras.
+Sou Cauê Sotero, um programador Full Stack apaixonado por tecnologia. Tenho experiência no desenvolvimento de sistemas web e mobile, utilizando diversas tecnologias para criar soluções eficientes e inovadoras.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guiyan10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guiyan10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Linguagens%20mais%20usadas" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caue-sotero&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caue-sotero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Linguagens%20mais%20usadas" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ---
@@ -63,10 +63,10 @@ Sou Guilherme Yan, um programador Full Stack apaixonado por tecnologia. Tenho ex
 ## 🔗 Onde me achar
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-yan-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/caue-sotero" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:guiyan.leite@gmail.com" target="_blank">
+  <a href="mailto:caue.sotero@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -76,16 +76,16 @@ Sou Guilherme Yan, um programador Full Stack apaixonado por tecnologia. Tenho ex
 ## 🚀 Projetos
 
 ### 📌 Vann
-> **Descrição**: Sistema desenvolvido para otimizar a rotina de condutores e oferecer tranquilidade aos pais, permitindo a visualização da rota em tempo real.
-> **Destaques**: Selecionado como um dos 16 melhores projetos do SENAI em 2024.
-> **Tecnologias**: PHP, Laravel, Javascript, React Native, React, CSS, HTML, Python, SQL.
-> **Meu Papel**: Atuei como desenvolvedor e co-líder do projeto, utilizando metodologias ágeis (Scrum) para gerenciar a equipe e garantir a entrega de um software de alta qualidade.
+> **Descrição**: Sistema desenvolvido para otimizar a rotina de condutores e oferecer tranquilidade aos pais, permitindo a visualização da rota em tempo real.  
+> **Destaques**: Selecionado como um dos 16 melhores projetos do SENAI em 2024.  
+> **Tecnologias**: PHP, Laravel, Javascript, React Native, React, CSS, HTML, Python, SQL.  
+> **Meu Papel**: Atuei como desenvolvedor e co-líder do projeto, utilizando metodologias ágeis (Scrum) para gerenciar a equipe e garantir a entrega de um software de alta qualidade.  
 
 ---
 
 ## 🎓 Formação e Experiência
 
-- 🎓 Formação técnica em Desenvolvimento de Sistemas pelo **SENAI**
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas pelo **SENAI**
-- 🏆 Experiência liderando equipes e projetos
-- 🏅 Participação em competições e eventos da área de tecnologia
+- 🎓 Formação técnica em Desenvolvimento de Sistemas pelo **SENAI**  
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas pelo **SENAI**  
+- 🏆 Experiência liderando equipes e projetos  
+- 🏅 Participação em competições e eventos da área de tecnologia  
