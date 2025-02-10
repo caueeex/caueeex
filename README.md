@@ -1,4 +1,4 @@
-# 📍 Prazer
+# 📍 Sobre Mim
 
 Sou Cauê Sotero, um programador Full Stack apaixonado por tecnologia. Tenho experiência no desenvolvimento de sistemas web e mobile, utilizando diversas tecnologias para criar soluções eficientes e inovadoras.
 
